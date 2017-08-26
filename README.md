@@ -29,7 +29,7 @@ WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 
 This material should be used solely for personal learning. This material cannot be redistributed or be used for lecture without author's permission.
 
-Lecture Note : JunGu Kang(chr0m3.kr@gmail.com)
-Assignments : JunGu Kang, HyungChan Kim
+* Lecture Note : JunGu Kang(chr0m3.kr@gmail.com)
+* Assignments : JunGu Kang(chr0m3.kr@gmail.com), HyungChan Kim(hj1003hj@ajou.ac.kr)
 
 Copyright (C) JunGu Kang, HyungChan Kim. All Rights Reserved.
