@@ -1,7 +1,5 @@
 # C Programming - Day 1
 
-[TOC]
-
 ## 읽을거리
 
 ### 컴퓨터의 데이터 처리
