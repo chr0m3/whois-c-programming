@@ -1,7 +1,5 @@
 # WhoIs C Programming
 
-[TOC]
-
 ## About This Repository
 
 This repository is for sharing materials for students who are taking the WhoIs C Programming lecture. 
