@@ -1,36 +1,37 @@
-# Whois C Programming
+# WhoIs C Programming
 
-### 자료
-* 모든 자료는 이 저장소에 업로드
-* pdf파일은 강의자료
-* 마크다운(md)파일은 기타 자료 및 과제
+[TOC]
 
-### 질문
+## About This Repository
+
+This repository is for sharing materials for students who are taking the WhoIs C Programming lecture. 
+
+### What is WhoIs?
+
+WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
+
+## 자료
+* WhoIs C Programming의 모든 자료는 이 저장소에 업로드함.
+* pdf파일은 강의자료, 마크다운(md)파일은 과제 파일.
+
+## 질문 방법
 * 모르는 부분은 슬랙 #qna 채널에 질문.
 * 어디서 모르는지 구체적으로 질문 할 것.
 * 현재 상태를 알 수 있도록 화면 캡쳐해서 첨부하면 답변하기 좋음.
 * 핸드폰으로 모니터 찍어서 올리지 말고, 캡쳐 기능 사용.
 
-## 사전 준비 사항(8월 28일 모두 준비해서 참석)
+## 과제 제출 방법
+* Vim으로 작업한 뒤 코드를 모두 압축하여 슬랙 #submit 채널에 업로드.
+	* 압축파일 이름은 `[이름]_day[회차].zip` 형식으로 지정.
+	* 예) `후이즈_day1.zip`
+* gcc 컴파일러로 컴파일하여 채점하니 과제 수행 시 참고.
+* 반드시 Linux 환경에서 작업할 것.
 
-### 개인 공부할 책 준비
-* 이미 있는 경우 새로 구입할 필요 없음.
-* 열혈 C 프로그래밍 - 윤성우(오렌지미디어) 추천.
+## License
 
-### 예습
-* `printf()`, `scanf()`
-* 연산자
-* 변수 / 상수 선언, 자료형
-* 분기문(`if`, `switch`)
-* 반복문(`while`, `do-while`, `for`)
-* 빠르게 진행할 예정이므로 예습 필수
+This material should be used solely for personal learning. This material cannot be redistributed or be used for lecture without author's permission.
 
-### 우분투 가상머신 설치
-* VMWare Workstation 권장. VMWare Player, Virtual Box 등 모두 가능함.
-* Ubuntu Server 16.04 LTS 권장.
-* SSH 설치/설정해서 자신이 만든 계정으로 접속 되는지 확인해올 것.
+Lecture Note : JunGu Kang(chr0m3.kr@gmail.com)
+Assignments : JunGu Kang, HyungChan Kim
 
-### XShell 설치
-* 넷사랑컴퓨터 홈페이지에서 개인용 무료로 받을 수 있음.
-
-### 준비해오지 않는 경우 진행 불가
+Copyright (C) JunGu Kang, HyungChan Kim. All Rights Reserved.
