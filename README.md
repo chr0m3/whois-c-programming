@@ -8,6 +8,12 @@ This repository is for sharing materials for students who are taking the WhoIs C
 
 WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 
+## 개요
+* 일정 : 8월 28일 ~ 9월
+* 장소 : 팔달관 410호, 팔달관 111호(CSMC)
+* 강의 : 강준구
+* TA : 김형찬, 이시훈, 임재혁
+
 ## 자료
 * WhoIs C Programming의 모든 자료는 이 저장소에 업로드함.
 * pdf파일은 강의자료, 마크다운(md)파일은 과제 파일.
@@ -15,8 +21,8 @@ WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 ## 질문 방법
 * 모르는 부분은 슬랙 #qna 채널에 질문.
 * 어디서 모르는지 구체적으로 질문 할 것.
-* 현재 상태를 알 수 있도록 화면 캡쳐해서 첨부하면 답변하기 좋음.
-* 핸드폰으로 모니터 찍어서 올리지 말고, 캡쳐 기능 사용.
+* 반드시 소스코드 첨부해서 질문할 것.
+	* 핸드폰으로 모니터 찍어서 올리지 말고, 소스코드 파일을 첨부
 
 ## 과제 제출 방법
 * 코드는 Vim으로 작성한 뒤 코드를 모두 압축하여 슬랙 #submit 채널에 업로드.
