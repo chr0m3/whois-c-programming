@@ -228,41 +228,21 @@ allign
 
 #### 문제
 
-크기가 2*2인 2차원 배열을 선언하시오. 행과 열이 각각 2개인 이차정사각행렬을 입력받아 역행렬을 구하는 프로그램을 구현하시오. 단, 행렬식(Determinant)이 0일 경우 역행렬이 존재하지 않는다고 출력하시오.이차정사각행렬 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20A%20%3D%20%5Cbegin%7Bpmatrix%7Da%20%26%20b%20%5C%5C%20c%20%26%20d%5Cend%7Bpmatrix%7D)의 역행렬 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20A%5E%7B-1%7D)은 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20%5Cfrac%7B1%7D%7BDet%28A%29%7D%5Cbegin%7Bpmatrix%7Dd%20%26%20-b%20%5C%5C%20-c%20%26%20a%5Cend%7Bpmatrix%7D)이고, 행렬식 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20Det%28A%29)은 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20ad%20-%20bc)이다.
+크기가 2*2인 `double`형의 2차원 배열을 선언하시오. 행과 열이 각각 2개인 이차정사각행렬을 입력받아 역행렬을 구하는 프로그램을 구현하시오. 단, 행렬식(Determinant)이 0일 경우 역행렬이 존재하지 않는다고 출력하시오.이차정사각행렬 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20A%20%3D%20%5Cbegin%7Bpmatrix%7Da%20%26%20b%20%5C%5C%20c%20%26%20d%5Cend%7Bpmatrix%7D)의 역행렬 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20A%5E%7B-1%7D)은 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20%5Cfrac%7B1%7D%7BDet%28A%29%7D%5Cbegin%7Bpmatrix%7Dd%20%26%20-b%20%5C%5C%20-c%20%26%20a%5Cend%7Bpmatrix%7D)이고, 행렬식 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20Det%28A%29)은 ![](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cdpi%7B100%7D%20ad%20-%20bc)이다.
 #### 예제
 
 ##### 입력1
 
 ```text
-2 7
+1 2
+1 3
 ```
 
 ##### 출력1
 
 ```text
-before
-a : 2
-b : 7
-after
-a : 7
-b : 2
-```
-
-##### 입력2
-
-```text
-23 86
-```
-
-##### 출력2
-
-```text
-before
-a : 23
-b : 86
-after
-a : 86
-b : 23
+3 -2
+-1 1
 ```
 
 ### Day2_Q10
