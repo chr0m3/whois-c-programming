@@ -80,9 +80,9 @@ main() {
 	int a;
     scanf("%d", &a);
     
-    if(a == "123") printf("123입니다.");
-    if(a == "456") printf("456입니다.");
-    if(a == "789") printf("789입니다.");
+    if(a == 123) printf("123입니다.");
+    if(a == 456) printf("456입니다.");
+    if(a == 789) printf("789입니다.");
 }
 ```
 
