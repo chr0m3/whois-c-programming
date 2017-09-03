@@ -101,13 +101,13 @@ Call by Reference와 Call by Value를 비교하시오.
 ##### 입력1
 
 ```text
-hello, world!
+hello,world!
 ```
 
 ##### 출력1
 
 ```text
-hello, world!
+hello,world!
 ```
 
 ##### 입력2
@@ -135,14 +135,14 @@ array
 ##### 입력1
 
 ```text
-hello, world!
+hello,world!
 ```
 
 ##### 출력1
 
 ```text
-array 1 : hello, world!
-array 2 : hello, world!
+array 1 : hello,world!
+array 2 : hello,world!
 ```
 
 ##### 입력2
