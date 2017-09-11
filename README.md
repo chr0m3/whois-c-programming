@@ -12,7 +12,7 @@ WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 * 일정 : 8월 28일 ~ 9월
 * 장소 : 팔달관 410호, 팔달관 111호(CSMC)
 * 강의 : 강준구
-* TA : 김형찬, 이시훈, 임재혁
+* TA : 고주성, 김형찬, 이시훈, 임재혁
 
 ## 자료
 * WhoIs C Programming의 모든 자료는 이 저장소에 업로드함.
