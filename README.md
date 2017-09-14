@@ -2,15 +2,19 @@
 
 ## About This Repository
 
-This repository is for sharing materials for students who are taking the WhoIs C Programming lecture. 
+This repository is for sharing materials for students who are taking the WhoIs C Programming lecture.
+
+이 저장소는 WhoIs C Programming 강의를 듣는 학생들에게 자료를 공유하기 위한 저장소입니다.
 
 ### What is WhoIs?
 
-WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
+WhoIs is information security club at Dept. of Cyber Security, Ajou University.
+
+WhoIs는 아주대학교 사이버보안학과의 정보보안 소학회입니다.
 
 ## 개요
-* 일정 : 8월 28일 ~ 9월
-* 장소 : 팔달관 410호, 팔달관 111호(CSMC)
+* 일정 : 8월 28일 ~ 9월 14일(3주)
+* 장소 : 팔달관 410호
 * 강의 : 강준구
 * TA : 고주성, 김형찬, 이시훈, 임재혁
 
@@ -22,7 +26,7 @@ WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 * 모르는 부분은 슬랙 #qna 채널에 질문.
 * 어디서 모르는지 구체적으로 질문 할 것.
 * 반드시 소스코드 첨부해서 질문할 것.
-	* 핸드폰으로 모니터 찍어서 올리지 말고, 소스코드 파일을 첨부
+	* 핸드폰으로 모니터 찍어서 올리지 말고, 소스코드를 첨부
 
 ## 과제 제출 방법
 * 코드는 Vim으로 작성한 뒤 코드를 모두 압축하여 슬랙 #submit 채널에 업로드.
@@ -43,6 +47,8 @@ WhoIs is white hacker group at Dept. of Cyber Security, Ajou University.
 ## License
 
 This material should be used solely for personal learning. This material cannot be redistributed or be used for lecture without author's permission.
+
+이 자료는 개인적인 학습 용도로만 사용할 수 있습니다. 이 자료는 저작자의 허가 없이 배포 또는 사용될 수 없습니다.
 
 * Lecture Note : JunGu Kang(chr0m3.kr@gmail.com)
 * Assignments : JunGu Kang(chr0m3.kr@gmail.com), HyungChan Kim(hj1003hj@ajou.ac.kr)
